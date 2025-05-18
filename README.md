@@ -42,3 +42,14 @@ O tópico está focado em arquitetura e serviços dentro do Azure, destacando:
 - Os tópicos sobre computação e rede cobrirão a criação de máquinas virtuais, rede, armazenamento e hospedagem de aplicativos. Explora diferentes estratégias de armazenamento e se um servidor é necessário para certas soluções na nuvem.
 - Modelos de identidade e segurança serão discutidos, com foco na responsabilidade compartilhada na nuvem. Cobrirá conformidade, gerenciamento de permissões e outros aspectos de segurança importantes dos ambientes de nuvem.
 Além de laboratórios práticos para praticar a criação de recursos como máquinas virtuais e redes, especificamente em torno do compartilhamento de responsabilidade e segurança, conformidade e permissões no contexto do Azure.
+
+
+## Módulo Computação e Rede
+
+Este módulo se aprofunda focando especificamente nos serviços de computação em nuvem dentro do Microsoft Azure. Aborda tipos de computação, como máquinas virtuais e contêineres, juntamente com a importância da infraestrutura de desktop virtual (VDI). Enfatiza a flexibilidade e a eficiência dos serviços do Azure, como o dimensionamento de recursos, o gerenciamento de máquinas virtuais e o balanceamento de carga para alta disponibilidade. Também destaca o modelo de responsabilidade compartilhada nos serviços de nuvem e as vantagens das soluções de trabalho remoto.
+
+- O Azure oferece uma variedade de serviços de computação além de apenas máquinas virtuais, incluindo instâncias de contêiner, aplicativos e desktops virtuais. O Microsoft Azure permite a criação de máquinas virtuais (VMs) que podem executar Windows ou Linux, com controle total sobre o software do sistema, mas não sobre o hardware.
+- As máquinas virtuais do Azure oferecem flexibilidade significativa, permitindo que os usuários instalem, configurem e removam aplicativos, bem como gerenciem as configurações do sistema. O conceito de 'compartilhamento de responsabilidade' no Azure significa que os usuários são responsáveis por gerenciar o software e as configurações, enquanto a Microsoft mantém a infraestrutura física.
+- O Azure fornece recursos escaláveis por meio de recursos como escalonamento de VMs e balanceamento de carga, garantindo gerenciamento eficiente de recursos e redundância. Os conjuntos de escala de máquinas virtuais no Azure permitem o escalonamento automático de VMs com base na demanda, melhorando o desempenho e a disponibilidade para aplicativos de grande escala.
+- Desktops virtuais, como os fornecidos pelo serviço Azure Virtual Desktop, tornaram-se muito populares durante a pandemia para o trabalho remoto, oferecendo uma alternativa flexível aos computadores físicos. Uma das principais vantagens de usar desktops virtuais é a redução de problemas relacionados ao hardware, pois os usuários podem acessar os recursos de sua empresa remotamente sem precisar de um computador físico.
+
