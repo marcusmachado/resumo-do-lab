@@ -32,3 +32,13 @@ Introduz o conceito de computação em nuvem, focando em diferentes modelos de s
 Portanto, enfatiza que o nível de responsabilidade diminui à medida que passamos de IaaS para PaaS para SaaS, sendo o SaaS o que exige o menor envolvimento do usuário na infraestrutura subjacente.
 
 
+
+## Módulo Componentes de Arquitetura
+
+O módulo se concentra em aspectos chave como regiões do Azure, zonas de disponibilidade, assinaturas e grupos de recursos, oferecendo uma compreensão mais profunda de como os recursos do Azure são estruturados. Exploramos computação, rede, armazenamento e soluções baseadas na nuvem, discutindo os prós e contras de usar servidores versus armazenamento em nuvem. Além disso, a sessão aborda modelos de identidade e segurança, conformidade e gerenciamento de permissões, enfatizando a responsabilidade compartilhada na segurança da nuvem. Laboratórios práticos também guiarão os alunos na criação de máquinas virtuais e redes, preparando-os para aplicações Azure no mundo real.
+
+O tópico está focado em arquitetura e serviços dentro do Azure, destacando:
+- Estruturação para cobrir regiões, zonas de disponibilidade, grupos de recursos e muito mais. Compreensão da arquitetura física do Azure, regiões e zonas de disponibilidade. Introduz o conceito de assinaturas e grupos de recursos para organizar recursos na nuvem.
+- Os tópicos sobre computação e rede cobrirão a criação de máquinas virtuais, rede, armazenamento e hospedagem de aplicativos. Explora diferentes estratégias de armazenamento e se um servidor é necessário para certas soluções na nuvem.
+- Modelos de identidade e segurança serão discutidos, com foco na responsabilidade compartilhada na nuvem. Cobrirá conformidade, gerenciamento de permissões e outros aspectos de segurança importantes dos ambientes de nuvem.
+Além de laboratórios práticos para praticar a criação de recursos como máquinas virtuais e redes, especificamente em torno do compartilhamento de responsabilidade e segurança, conformidade e permissões no contexto do Azure.
