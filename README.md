@@ -1,4 +1,4 @@
-# Resumo - Computação em Nuvem - Azzure
+# Resumo - Computação em Nuvem - Azure
 
 ## Módulo de Introdução
 
@@ -52,4 +52,30 @@ Este módulo se aprofunda focando especificamente nos serviços de computação 
 - As máquinas virtuais do Azure oferecem flexibilidade significativa, permitindo que os usuários instalem, configurem e removam aplicativos, bem como gerenciem as configurações do sistema. O conceito de 'compartilhamento de responsabilidade' no Azure significa que os usuários são responsáveis por gerenciar o software e as configurações, enquanto a Microsoft mantém a infraestrutura física.
 - O Azure fornece recursos escaláveis por meio de recursos como escalonamento de VMs e balanceamento de carga, garantindo gerenciamento eficiente de recursos e redundância. Os conjuntos de escala de máquinas virtuais no Azure permitem o escalonamento automático de VMs com base na demanda, melhorando o desempenho e a disponibilidade para aplicativos de grande escala.
 - Desktops virtuais, como os fornecidos pelo serviço Azure Virtual Desktop, tornaram-se muito populares durante a pandemia para o trabalho remoto, oferecendo uma alternativa flexível aos computadores físicos. Uma das principais vantagens de usar desktops virtuais é a redução de problemas relacionados ao hardware, pois os usuários podem acessar os recursos de sua empresa remotamente sem precisar de um computador físico.
+
+
+## Módulo Identidade, Acesso e Segurança
+
+Este módulo foca em tópicos críticos relacionados à identidade, acesso e segurança dentro do ambiente de nuvem Azure, cobrindo serviços de diretório, métodos de autenticação e modelos de segurança. Ele destaca ferramentas como o Microsoft Entra ID e o Entra Domain Services, juntamente com estratégias de autenticação como o logon único e a autenticação multifator. A importância dos modelos de segurança de confiança zero e das estratégias de defesa em profundidade é enfatizada para prevenir violações de segurança. Também explora o Microsoft Defender para Nuvem, uma plataforma híbrida e multi-nuvem, ajudando os usuários a gerenciar e proteger seus ambientes. É uma visão geral abrangente e projetada para oferecer insights práticos sobre segurança na nuvem.
+
+- Segurança é nossa responsabilidade; os provedores nos dão ferramentas, mas nós mesmos devemos implementar a segurança. O tema se concentra em serviços de diretório, métodos de autenticação, modelos de segurança e serviços do Azure AD. Você aprenderá sobre o Microsoft Entra ID, anteriormente conhecido como Azure AD, e como ele se integra ao gerenciamento de identidade e acesso.
+- Os principais métodos de autenticação abordados incluem o Logon Único (SSO) e a Autenticação Multifator (MFA). Identidades externas e gerenciamento de acesso de convidados no Azure AD são cruciais para habilitar a colaboração segura. O acesso condicional no Azure AD ajuda a controlar quem e o que pode acessar seus recursos com base em condições específicas.
+- O RBAC (Controle de Acesso Baseado em Função) é essencial para gerenciar permissões no Azure, controlando o acesso de usuários e recursos. Confiança Zero é um modelo de segurança central – nunca confie, sempre verifique – reduzindo os riscos de ataques laterais e vazamentos de dados.
+- Defesa em Profundidade, ou o 'modelo de cebola', garante segurança em camadas em múltiplos ambientes, como rede, autenticação e aplicação. O Microsoft Defender para Nuvem é uma plataforma nativa da nuvem que oferece visibilidade e segurança em ambientes híbridos e multi-nuvem.
+
+
+
+
+
+
+
+# Resumo - Serviços de Inteligência Artificial - Azure
+
+## Módulo de Introdução
+
+Este curso oferece uma introdução aos conceitos de Inteligência Artificial utilizando o Microsoft Azure. Destinado a profissionais que buscam explorar ferramentas e serviços de IA essenciais, com foco em aprendizado de máquina, processamento de linguagem natural, visão computacional e aplicações de IA. Inclui fundamentos teóricos e insights práticos, com exemplos do mundo real. Ele também enfatiza a importância do uso responsável da IA e da experiência prática com ferramentas da Microsoft, impulsionando o conhecimento de IA para diversas aplicações industriais.
+
+- Aborda os conceitos de Inteligência Artificial (IA) no Microsoft Azure e tem como objetivo preparar indivíduos para o exame de certificação. O conteúdo é totalmente atualizado, cobrindo as mais recentes ferramentas e serviços de IA fornecidos pela Microsoft. Também é  adequado tanto para a preparação para a certificação quanto para aqueles que desejam se manter atualizados com os avanços da IA.
+- O objetivo é introduzir a IA em aplicações cotidianas, ajudando os alunos a usar as ferramentas da Microsoft para resolver problemas do mundo real. Explora várias ferramentas e serviços de IA da Microsoft, desde processamento de documentos até aprendizado de máquina e IA generativa, com atividades práticas, quizzes e laboratórios para fortalecer a compreensão.
+- Aplica esses conceitos de IA usando os serviços do Microsoft Azure e explora como usá-los para diferentes cenários, como gerenciamento de documentos e análise de dados em larga escala, aprendizado de máquina, visão computacional, processamento de linguagem natural e modelos generativos de IA. Enfatizado  no aprendizado responsável, especialmente ao lidar com dados confidenciais, como vídeos, imagens e documentos pessoais, garantindo o uso ético das tecnologias de IA.
 
